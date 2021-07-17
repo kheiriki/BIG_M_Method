@@ -1,0 +1,1 @@
+In the beginning, it takes both min and max input In your decision Then executes big M method, which is executed step by step in the table, and finally, it prints the type of answer (multiple, no justified region, infinite region, tab)
